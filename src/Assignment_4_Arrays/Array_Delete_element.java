@@ -1,6 +1,5 @@
-package Assignment_4;
+package Assignment_4_Arrays;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Array_Delete_element {
